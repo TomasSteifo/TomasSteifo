@@ -34,7 +34,7 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
 
 - 💻 Currently, I'm diving deep into **.NET services**.
 - 🌍 Based in **Gothenburg, Sweden** – embracing the Swedish tech scene!
-- 🎨 Hobbies: Besides coding, I enjoy creating digital art, gaming, and exploring the beautiful Gothenburg archipelago.
+- 🎨 Hobbies: Besides coding, I enjoy creating digital art, dancing, and travel to explore the world.
 
 ---
 
