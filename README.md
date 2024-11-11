@@ -24,8 +24,9 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
 
 📈 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomasSteifo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSteifo&layout=compact&theme=radical)
+
 
 ---
 
