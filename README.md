@@ -41,7 +41,8 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
 
 ### 📫 Let's Connect!
 
-- [LinkedIn](www.linkedin.com/in/tomassteifo)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/tomassteifo/)
+
 
 ---
 
