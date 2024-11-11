@@ -11,10 +11,14 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
  🛠️ Languages and Tools
 
 - **Languages:**  
-  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) 
-
+  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  
 - **Frameworks & Libraries:**  
-  ![.NET](https://img.icons8.com/color/48/000000/net-framework.png) 
+  ![.NET](https://img.icons8.com/color/48/000000/net-framework.png)
+
+- **Methodologies:**  
+  ![Agile](https://img.icons8.com/color/48/000000/sprint-iteration.png)
 
 - **Tools & Platforms:**  
   ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
