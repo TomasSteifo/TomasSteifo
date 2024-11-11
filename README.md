@@ -19,7 +19,6 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
 - **Frameworks & Libraries:**  
   ![.NET](https://img.icons8.com/color/48/000000/net-framework.png)
    ![React](https://img.icons8.com/color/48/000000/react-native.png)
-  - **Frameworks & Libraries:**  
   <img src="https://github.com/TomasSteifo/TomasSteifo/blob/main/DALL%C2%B7E%202024-11-12%2000.11.50%20-%20A%20minimalistic%20and%20professional%20icon%20representing%20Entity%20Framework%2C%20suitable%20for%20a%20GitHub%20profile%20README.%20Simple%2C%20clean%20design%20with%20subtle%20color%20and%20s.webp" alt="Entity Framework Icon" width="48"/>
 
 
