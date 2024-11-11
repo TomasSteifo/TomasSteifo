@@ -22,21 +22,16 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
   ![Entity Framework](https://img.icons8.com/color/48/000000/entity-framework.png)
 
 - **Modeling & Diagrams:**  
-  ![UML](https://img.icons8.com/ios-filled/50/000000/uml-diagram.png)
-
+  <img src="https://github.com/TomasSteifo/TomasSteifo/blob/main/DALL%C2%B7E%202024-11-12%2000.11.46%20-%20A%20minimalistic%20and%20professional%20icon%20representing%20UML%20diagram%20techniques%2C%20suitable%20for%20a%20GitHub%20profile%20README.%20Simple%2C%20clean%20design%20with%20subtle%20color.webp" alt="UML Icon" width="48"/>
 - **Methodologies:**  
   ![Agile](https://img.icons8.com/color/48/000000/sprint-iteration.png)
-   ![Scrum](https://img.icons8.com/color/48/000000/scrum.png)
+   <img src="https://github.com/TomasSteifo/TomasSteifo/blob/main/DALL%C2%B7E%202024-11-12%2000.11.48%20-%20A%20minimalistic%20and%20professional%20icon%20representing%20Scrum%20methodology%2C%20suitable%20for%20a%20GitHub%20profile%20README.%20Simple%2C%20clean%20design%20with%20subtle%20color%20and%20.webp" alt="Scrum Icon" width="48"/>
 
 - **Tools & Platforms:**  
   ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
   ![Visual Studio](https://img.icons8.com/color/48/visual-studio--v1.png)
     ![Git](https://img.icons8.com/color/48/000000/git.png)
     ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
-
-- **Modeling & Diagrams:**  
-  <img src="https://github.com/TomasSteifo/TomasSteifo/blob/main/DALL%C2%B7E%202024-11-12%2000.11.46%20-%20A%20minimalistic%20and%20professional%20icon%20representing%20UML%20diagram%20techniques%2C%20suitable%20for%20a%20GitHub%20profile%20README.%20Simple%2C%20clean%20design%20with%20subtle%20color.webp" alt="UML Icon" width="48"/>
-
 
 ---
 
