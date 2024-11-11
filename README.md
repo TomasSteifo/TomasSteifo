@@ -1,8 +1,11 @@
 # 👋 Hello! I'm Tomas
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Full+Stack+Developer+|+.NET+Specialist+|+Based+in+Gothenburg) <!-- Replace this placeholder with a custom banner if desired -->
+![Profile Banner](https://raw.githubusercontent.com/TomasSteifo/TomasSteifo/refs/heads/main/Screenshot%202024-11-11%20at%2013.17.24.png)
 
 I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main focus is on **.NET** development, and I'm always eager to learn more.
+
+--- 
+
 
 ---
  🛠️ Languages and Tools
