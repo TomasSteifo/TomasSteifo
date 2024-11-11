@@ -13,6 +13,7 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
 - **Languages:**  
   ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![Python](https://img.icons8.com/color/48/000000/python.png)
   
 - **Frameworks & Libraries:**  
   ![.NET](https://img.icons8.com/color/48/000000/net-framework.png)
