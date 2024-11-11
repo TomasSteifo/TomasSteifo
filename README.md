@@ -14,17 +14,25 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
   ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
   ![Python](https://img.icons8.com/color/48/000000/python.png)
+  ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
   
 - **Frameworks & Libraries:**  
   ![.NET](https://img.icons8.com/color/48/000000/net-framework.png)
+   ![React](https://img.icons8.com/color/48/000000/react-native.png)
+  ![Entity Framework](https://img.icons8.com/color/48/000000/entity-framework.png)
+
+- **Modeling & Diagrams:**  
+  ![UML](https://img.icons8.com/ios-filled/50/000000/uml-diagram.png)
 
 - **Methodologies:**  
   ![Agile](https://img.icons8.com/color/48/000000/sprint-iteration.png)
+   ![Scrum](https://img.icons8.com/color/48/000000/scrum.png)
 
 - **Tools & Platforms:**  
   ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
   ![Visual Studio](https://img.icons8.com/color/48/visual-studio--v1.png)
     ![Git](https://img.icons8.com/color/48/000000/git.png)
+    ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 
 
 ---
