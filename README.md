@@ -23,6 +23,7 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
 - **Tools & Platforms:**  
   ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
   ![Visual Studio](https://img.icons8.com/color/48/visual-studio--v1.png)
+    ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 
 ---
