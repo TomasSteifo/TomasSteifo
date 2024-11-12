@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Tomas
 
-![Profile Banner](https://raw.githubusercontent.com/TomasSteifo/TomasSteifo/refs/heads/main/Screenshot%202024-11-11%20at%2013.17.24.png)
+![Header Image](https://github.com/TomasSteifo/TomasSteifo/blob/main/github-header-image.png)
 
 I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main focus is on **.NET** development, and I'm always eager to learn more.
 
@@ -9,24 +9,24 @@ I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main fo
 
 ---
  🛠️ Languages and Tools
+ 
+- **Modeling & Diagrams:**  
+![UML Badge](https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black)
+
+
+  
+- **Frameworks & Libraries:**  
+  <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Icon" width="48"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="Icon" width="48"/>
+
+- **Methodologies:**  
+  ![Scrum Alliance Badge](https://img.shields.io/badge/Scrum%20Alliance-009FDA.svg?style=for-the-badge&logo=Scrum-Alliance&logoColor=white)
 
 - **Languages:**  
    <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C# Icon" width="48"/>
    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="48"/>
    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python Icon" width="48"/>
    <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript Icon" width="48"/>
-  
-- **Frameworks & Libraries:**  
-  <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Icon" width="48"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="Icon" width="48"/>
-  <img src="https://github.com/TomasSteifo/TomasSteifo/blob/main/DALL%C2%B7E%202024-11-12%2000.11.50%20-%20A%20minimalistic%20and%20professional%20icon%20representing%20Entity%20Framework%2C%20suitable%20for%20a%20GitHub%20profile%20README.%20Simple%2C%20clean%20design%20with%20subtle%20color%20and%20s.webp" alt="Entity Framework Icon" width="48"/>
-
-- **Modeling & Diagrams:**  
-  <img src="https://github.com/TomasSteifo/TomasSteifo/blob/main/DALL%C2%B7E%202024-11-12%2000.11.46%20-%20A%20minimalistic%20and%20professional%20icon%20representing%20UML%20diagram%20techniques%2C%20suitable%20for%20a%20GitHub%20profile%20README.%20Simple%2C%20clean%20design%20with%20subtle%20color.webp" alt="UML Icon" width="48"/>
-  
-- **Methodologies:**  
-  ![Agile](https://img.icons8.com/color/48/000000/sprint-iteration.png)
-   <img src="https://github.com/TomasSteifo/TomasSteifo/blob/main/DALL%C2%B7E%202024-11-12%2000.11.48%20-%20A%20minimalistic%20and%20professional%20icon%20representing%20Scrum%20methodology%2C%20suitable%20for%20a%20GitHub%20profile%20README.%20Simple%2C%20clean%20design%20with%20subtle%20color%20and%20.webp" alt="Scrum Icon" width="48"/>
 
 - **Tools & Platforms:**  
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub Icon" width="48"/>
