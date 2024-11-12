@@ -2,7 +2,8 @@
 
 ![Header Image](https://github.com/TomasSteifo/TomasSteifo/blob/main/github-header-image.png)
 
-I'm Tomas, a passionate Full Stack Developer from Gothenburg, Sweden! My main focus is on **.NET** development, and I'm always eager to learn more.
+I'm Tomas, a passionate Full Stack Developer based in Gothenburg, Sweden! Specializing in **.NET** development, I enjoy building dynamic, user-focused applications and am always keen to learn and apply new technologies.  
+
 
 --- 
 
